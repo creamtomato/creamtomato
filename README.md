@@ -1,4 +1,4 @@
-# ![](https://capsule-render.vercel.app/api?section=footer, type = waving, color = 'pink', height = 150, section = header, fontSize = 30, animation = twinkling, text = Welcome to the world of creamtomato)
+# ![header](https://capsule-render.vercel.app/api?section=footer, type = waving, color = 'pink', height = 150, section = header, fontSize = 30, animation = twinkling, text = Welcome to the world of creamtomato)
 ### Stacks
 <p>
   <a href="https://skillicons.dev">
