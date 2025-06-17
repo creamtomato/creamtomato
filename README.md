@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?section=footer, type = waving, color = 'pink', height = 150, section = header, fontSize = 30, animation = twinkling, text = Welcome to the world of creamtomato)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=21&pause=1000&color=F78DA9&width=435&lines=Welcome+to+the+world+of+creamtomato!)](https://git.io/typing-svg)
 ### Stacks
 <p>
   <a href="https://skillicons.dev">
